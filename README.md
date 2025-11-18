@@ -1,6 +1,6 @@
 # **Whisper Model Service**
 
-**Servicio de inferencia para transcripción de audio** usando **faster-whisper**.  
+**Servicio de inferencia para transcripción de audio** usando **faster-whisper-medium**.  
 La imagen está optimizada para GPU **RTX 5070**. La imagen Docker resultante pesa aproximadamente **24.46 GB**.
 
 ## **Resumen**
